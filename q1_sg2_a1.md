@@ -4,20 +4,20 @@
 
 #22 Dogillo, Charlize Sky A.
 
-#24 Latoga, Dianne R.                                                                                                                                                                     08/12/26
+#24 Latoga, Dianne R.                                                                                                                                                                                     
 
 
 
-Main Problem: The lack of crowd control due to slow service in the Canteen.
+###Main Problem: The lack of crowd control due to slow service in the Canteen.
 
-SUB-PROBLEMS:
+##SUB-PROBLEMS:
 1) The student's unhurried pace of choosing their order.
 
 2) The cashier's traditional way of computing money.
 
 3) The system's disordered system of tracking food supplies.
 
-CT SKILLS:
+##CT SKILLS:
 1) The student's unhurried pace of choosing their order. 
    CT SKILL: Decomposition
    SOLUTION: Display a menu with food options and prices so that students can choose more efficiently.
@@ -32,7 +32,7 @@ CT SKILLS:
 
 
 
-Pseudocode:
+##Pseudocode:
 // Canteen Food Supply Tracking
 
 FUNCTION ProcessOrder(itemID, quantity):
