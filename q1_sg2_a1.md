@@ -18,7 +18,7 @@
 
 3) The system's disordered system of tracking food supplies.
 
-##CT SKILLS:
+## CT SKILLS:
 1) The student's unhurried pace of choosing their order. 
    CT SKILL: Decomposition
    SOLUTION: Display a menu with food options and prices so that students can choose more efficiently.
