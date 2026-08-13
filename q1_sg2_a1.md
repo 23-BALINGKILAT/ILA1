@@ -8,7 +8,8 @@
 
 
 
-### Main Problem: The lack of crowd control due to slow service in the Canteen.
+# Main Problem: The lack of crowd control due to slow service in the Canteen.
+
 
 ## SUB-PROBLEMS:
 1) The student's unhurried pace of choosing their order.
